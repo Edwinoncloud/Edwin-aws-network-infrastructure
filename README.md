@@ -8,7 +8,7 @@ The architecture separates public and private resources while allowing private r
 
 ## Architecture
 
-![AWS Network Architecture](images/Architecture.png)
+![AWS Network Architecture](Images/Architecture.png)
 
 ### Routing
 
